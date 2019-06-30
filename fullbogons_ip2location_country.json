@@ -1,0 +1,54 @@
+[
+	{
+		"code": "COUNTRYLESS",
+		"value": 600242888
+	},
+	{
+		"code": "CY",
+		"value": 64
+	},
+	{
+		"code": "DE",
+		"value": 256
+	},
+	{
+		"code": "FR",
+		"value": 224
+	},
+	{
+		"code": "GB",
+		"value": 128
+	},
+	{
+		"code": "IL",
+		"value": 128
+	},
+	{
+		"code": "IT",
+		"value": 32
+	},
+	{
+		"code": "MU",
+		"value": 5134336
+	},
+	{
+		"code": "NO",
+		"value": 128
+	},
+	{
+		"code": "RU",
+		"value": 384
+	},
+	{
+		"code": "SE",
+		"value": 32
+	},
+	{
+		"code": "US",
+		"value": 3584
+	},
+	{
+		"code": "ZA",
+		"value": 256
+	}
+]

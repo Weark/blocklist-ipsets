@@ -1,0 +1,198 @@
+[
+	{
+		"code": "AE",
+		"value": 1288
+	},
+	{
+		"code": "AL",
+		"value": 512
+	},
+	{
+		"code": "AT",
+		"value": 11776
+	},
+	{
+		"code": "AU",
+		"value": 6912
+	},
+	{
+		"code": "BE",
+		"value": 3072
+	},
+	{
+		"code": "CA",
+		"value": 256
+	},
+	{
+		"code": "CH",
+		"value": 50432
+	},
+	{
+		"code": "CY",
+		"value": 16
+	},
+	{
+		"code": "CZ",
+		"value": 4352
+	},
+	{
+		"code": "DE",
+		"value": 136832
+	},
+	{
+		"code": "DK",
+		"value": 1792
+	},
+	{
+		"code": "EE",
+		"value": 512
+	},
+	{
+		"code": "EG",
+		"value": 256
+	},
+	{
+		"code": "ES",
+		"value": 4736
+	},
+	{
+		"code": "FI",
+		"value": 3840
+	},
+	{
+		"code": "FR",
+		"value": 32449
+	},
+	{
+		"code": "GB",
+		"value": 51072
+	},
+	{
+		"code": "GH",
+		"value": 1024
+	},
+	{
+		"code": "GI",
+		"value": 256
+	},
+	{
+		"code": "GR",
+		"value": 2560
+	},
+	{
+		"code": "HU",
+		"value": 2304
+	},
+	{
+		"code": "IE",
+		"value": 768
+	},
+	{
+		"code": "IL",
+		"value": 512
+	},
+	{
+		"code": "IN",
+		"value": 2048
+	},
+	{
+		"code": "IQ",
+		"value": 2048
+	},
+	{
+		"code": "IR",
+		"value": 1424
+	},
+	{
+		"code": "IT",
+		"value": 16380
+	},
+	{
+		"code": "JP",
+		"value": 2816
+	},
+	{
+		"code": "KE",
+		"value": 2048
+	},
+	{
+		"code": "LB",
+		"value": 608
+	},
+	{
+		"code": "LT",
+		"value": 256
+	},
+	{
+		"code": "LU",
+		"value": 1280
+	},
+	{
+		"code": "LY",
+		"value": 1024
+	},
+	{
+		"code": "MD",
+		"value": 256
+	},
+	{
+		"code": "MT",
+		"value": 256
+	},
+	{
+		"code": "MZ",
+		"value": 1024
+	},
+	{
+		"code": "NE",
+		"value": 12
+	},
+	{
+		"code": "NL",
+		"value": 25856
+	},
+	{
+		"code": "NO",
+		"value": 36608
+	},
+	{
+		"code": "PL",
+		"value": 1536
+	},
+	{
+		"code": "RO",
+		"value": 1536
+	},
+	{
+		"code": "RS",
+		"value": 512
+	},
+	{
+		"code": "RU",
+		"value": 12323
+	},
+	{
+		"code": "SE",
+		"value": 1408
+	},
+	{
+		"code": "SG",
+		"value": 256
+	},
+	{
+		"code": "TR",
+		"value": 8192
+	},
+	{
+		"code": "UA",
+		"value": 1536
+	},
+	{
+		"code": "UG",
+		"value": 1024
+	},
+	{
+		"code": "US",
+		"value": 8456
+	}
+]
